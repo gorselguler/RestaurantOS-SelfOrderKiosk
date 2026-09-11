@@ -74,6 +74,3 @@ npm run dev
 - **Backend / Database:** Supabase (PostgreSQL, Realtime, Auth, Edge Functions)
 - **Utilities:** jsPDF, jsPDF-AutoTable
 
-## License
-
-MIT
